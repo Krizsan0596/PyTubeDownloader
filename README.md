@@ -1,7 +1,7 @@
-### Youtube Downloader
+# Youtube Downloader
  
  This is a little project I did a while back, all it does is download the youtube video at the link you provide.
-# Install instructions
+### Install instructions
  ```
  git clone https://github.com/Krizsan0596/YoutubeDownloader.git
  cd YoutubeDownloader
