@@ -6,9 +6,13 @@
     </head>
     <body>
         <form action="/download" method="POST">
-            <label for="yturl">Youtube link: </label>
+            <label for="yturl">Youtube link </label>
             <input id="yturl" type="text" name="yturl" />
             <button type="submit">Download</button>
         </form>
+        <div class="form__group field">
+            <input type="input" class="form__field" placeholder="URL" name="yturl" id='yturl' required />
+            <label for="yturl" class="form__label">Youtube Link</label>
+          </div>
     </body>
 </html>
