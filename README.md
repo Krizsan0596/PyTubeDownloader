@@ -6,5 +6,12 @@
  git clone https://github.com/Krizsan0596/YoutubeDownloader.git
  cd YoutubeDownloader
  pip3 install -r requirements.txt
- python3 main.py
  ```
+### Usage
+ After you run it you should see this:
+ ```
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ ```
+ Just open the link in your browser.
+
+ ## I wrote and ran it in pycharm, it may not work outside it. For me it didn't.
