@@ -14,6 +14,5 @@
  ```
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
  ```
- Just open the link in your browser. The rest is pretty simple.*Make sure you copy the **whole link** not just the id.*
- 
-
+ Just open the link in your browser. The rest is pretty simple. *Make sure you copy the **whole link** not just the id.*
+ Don't worry if the page appears frozen, the download may take a long time, depending on the video length.
