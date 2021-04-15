@@ -19,7 +19,7 @@ def yt_download(link):
     yt = YouTube(link)
     print("Title: ", yt.title)
     print("Views: ", yt.views)
-    print("Video length: ", yt.length)
+    print("Video length: ", yt.length, "seconds")
     ys = yt.streams.get_highest_resolution()
     print("Processing...")
     ys.download()
