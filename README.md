@@ -14,6 +14,6 @@
  ```
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
  ```
- Just open the link in your browser. The rest is pretty simple.
+ Just open the link in your browser. The rest is pretty simple.*Make sure you copy the **whole link** not just the id.*
  
 
