@@ -1,7 +1,6 @@
 # Youtube Downloader
  
- This is a little project I did a while back, all it does is download the youtube video at the link you provide.
- 
+ This is a little project I did a while back, all it does is download the youtube video at the link you provide.  
  **I wrote and ran it in pycharm, it may not work outside it. For me it didn't.**
 
 ### Install instructions
