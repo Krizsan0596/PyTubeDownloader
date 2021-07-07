@@ -4,10 +4,8 @@
  **I wrote and ran it in pycharm, it may not work outside it. For me it didn't.**
  And yes, it's ugly but it works and that's what matters. I will try making it nicer, but I'm not an expert in CSS.
 
-### Install instructions
+### Install dependencies
  ```
- git clone https://github.com/Krizsan0596/YoutubeDownloader.git
- cd YoutubeDownloader
  pip3 install -r requirements.txt
  ```
 ### Usage
